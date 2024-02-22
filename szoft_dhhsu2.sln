@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{32498F1F-983A-4BF9-8684-98FEE57CDEFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pascal", "Pascal\Pascal.csproj", "{FC1B26D0-4D16-4D36-8DB6-9DE4211EF082}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32498F1F-983A-4BF9-8684-98FEE57CDEFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32498F1F-983A-4BF9-8684-98FEE57CDEFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32498F1F-983A-4BF9-8684-98FEE57CDEFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32498F1F-983A-4BF9-8684-98FEE57CDEFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC1B26D0-4D16-4D36-8DB6-9DE4211EF082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC1B26D0-4D16-4D36-8DB6-9DE4211EF082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC1B26D0-4D16-4D36-8DB6-9DE4211EF082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC1B26D0-4D16-4D36-8DB6-9DE4211EF082}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2CEC338-9440-466D-8628-B40BDA8A76B0}
+	EndGlobalSection
+EndGlobal
