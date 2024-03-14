@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fibonacci", "Fibonacci\Fibo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pascal", "Pascal\Pascal.csproj", "{FC1B26D0-4D16-4D36-8DB6-9DE4211EF082}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "villogogomb", "villogogomb\villogogomb.csproj", "{4C65361B-2CD8-48B5-B7DB-105BC6AE35FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "villogogomb", "villogogomb\villogogomb.csproj", "{4C65361B-2CD8-48B5-B7DB-105BC6AE35FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_feladat", "4_feladat\4_feladat.csproj", "{017E8E86-B6CB-40C6-A42A-08FE531B5701}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4_feladat", "4_feladat\4_feladat.csproj", "{017E8E86-B6CB-40C6-A42A-08FE531B5701}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HajósTeszt", "hajos_kviz\HajósTeszt.csproj", "{2FC41E33-644F-44D9-AFC5-981F57A35CB4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{017E8E86-B6CB-40C6-A42A-08FE531B5701}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{017E8E86-B6CB-40C6-A42A-08FE531B5701}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{017E8E86-B6CB-40C6-A42A-08FE531B5701}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FC41E33-644F-44D9-AFC5-981F57A35CB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FC41E33-644F-44D9-AFC5-981F57A35CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FC41E33-644F-44D9-AFC5-981F57A35CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FC41E33-644F-44D9-AFC5-981F57A35CB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
