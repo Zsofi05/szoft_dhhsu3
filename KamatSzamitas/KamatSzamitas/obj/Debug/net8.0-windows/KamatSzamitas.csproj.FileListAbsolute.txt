@@ -1,0 +1,16 @@
+C:\Users\Zsófia\Desktop\CORVINUS\TANTÁRGY_SOFTWARE TECHNOLÓGIA\1.gyakorlat\KamatSzamitas\KamatSzamitas\obj\Debug\net8.0-windows\KamatSzamitas.Form1.resources
+C:\Users\Zsófia\Desktop\CORVINUS\TANTÁRGY_SOFTWARE TECHNOLÓGIA\1.gyakorlat\KamatSzamitas\KamatSzamitas\obj\Debug\net8.0-windows\KamatSzamitas.csproj.GenerateResource.cache
+C:\Users\Zsófia\Desktop\CORVINUS\TANTÁRGY_SOFTWARE TECHNOLÓGIA\1.gyakorlat\KamatSzamitas\KamatSzamitas\obj\Debug\net8.0-windows\KamatSzamitas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zsófia\Desktop\CORVINUS\TANTÁRGY_SOFTWARE TECHNOLÓGIA\1.gyakorlat\KamatSzamitas\KamatSzamitas\obj\Debug\net8.0-windows\KamatSzamitas.AssemblyInfoInputs.cache
+C:\Users\Zsófia\Desktop\CORVINUS\TANTÁRGY_SOFTWARE TECHNOLÓGIA\1.gyakorlat\KamatSzamitas\KamatSzamitas\obj\Debug\net8.0-windows\KamatSzamitas.AssemblyInfo.cs
+C:\Users\Zsófia\Desktop\CORVINUS\TANTÁRGY_SOFTWARE TECHNOLÓGIA\1.gyakorlat\KamatSzamitas\KamatSzamitas\obj\Debug\net8.0-windows\KamatSzamitas.csproj.CoreCompileInputs.cache
+C:\Users\Zsófia\Desktop\CORVINUS\TANTÁRGY_SOFTWARE TECHNOLÓGIA\1.gyakorlat\KamatSzamitas\KamatSzamitas\bin\Debug\net8.0-windows\KamatSzamitas.exe
+C:\Users\Zsófia\Desktop\CORVINUS\TANTÁRGY_SOFTWARE TECHNOLÓGIA\1.gyakorlat\KamatSzamitas\KamatSzamitas\bin\Debug\net8.0-windows\KamatSzamitas.deps.json
+C:\Users\Zsófia\Desktop\CORVINUS\TANTÁRGY_SOFTWARE TECHNOLÓGIA\1.gyakorlat\KamatSzamitas\KamatSzamitas\bin\Debug\net8.0-windows\KamatSzamitas.runtimeconfig.json
+C:\Users\Zsófia\Desktop\CORVINUS\TANTÁRGY_SOFTWARE TECHNOLÓGIA\1.gyakorlat\KamatSzamitas\KamatSzamitas\bin\Debug\net8.0-windows\KamatSzamitas.dll
+C:\Users\Zsófia\Desktop\CORVINUS\TANTÁRGY_SOFTWARE TECHNOLÓGIA\1.gyakorlat\KamatSzamitas\KamatSzamitas\bin\Debug\net8.0-windows\KamatSzamitas.pdb
+C:\Users\Zsófia\Desktop\CORVINUS\TANTÁRGY_SOFTWARE TECHNOLÓGIA\1.gyakorlat\KamatSzamitas\KamatSzamitas\obj\Debug\net8.0-windows\KamatSzamitas.dll
+C:\Users\Zsófia\Desktop\CORVINUS\TANTÁRGY_SOFTWARE TECHNOLÓGIA\1.gyakorlat\KamatSzamitas\KamatSzamitas\obj\Debug\net8.0-windows\refint\KamatSzamitas.dll
+C:\Users\Zsófia\Desktop\CORVINUS\TANTÁRGY_SOFTWARE TECHNOLÓGIA\1.gyakorlat\KamatSzamitas\KamatSzamitas\obj\Debug\net8.0-windows\KamatSzamitas.pdb
+C:\Users\Zsófia\Desktop\CORVINUS\TANTÁRGY_SOFTWARE TECHNOLÓGIA\1.gyakorlat\KamatSzamitas\KamatSzamitas\obj\Debug\net8.0-windows\KamatSzamitas.genruntimeconfig.cache
+C:\Users\Zsófia\Desktop\CORVINUS\TANTÁRGY_SOFTWARE TECHNOLÓGIA\1.gyakorlat\KamatSzamitas\KamatSzamitas\obj\Debug\net8.0-windows\ref\KamatSzamitas.dll
