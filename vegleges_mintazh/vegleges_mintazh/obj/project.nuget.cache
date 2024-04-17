@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KUK9U+EfuVfXSjiaug2VgjJO7RPdrWawJr7njSKv90HlqMHwxiH6tk7GJmJbrl97gLhbYGnvJSipDvxSFOsAhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zsófia\\OneDrive - Corvinus University of Budapest\\Asztal\\CORVINUS\\TANTÁRGY_SOFTWARE TECHNOLÓGIA\\vegleges_mintazh\\vegleges_mintazh\\vegleges_mintazh.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zsófia\\.nuget\\packages\\csvhelper\\31.0.3\\csvhelper.31.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
