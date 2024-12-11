@@ -16,5 +16,17 @@ Egy egyszerű asztali alkalmazás és webapplikáció a JóAutók kitalált aut�
 
 -   `1x1p`  Az alkalmazásban használt táblánként pont (Cars)
 -   `2p`  Az adatbázis saját Azure SQL szerveren van
--   `1p`  Az adatbázis adatainak forrásmegjelölése értsd: miből készült és hogyan:
+-   `1p`  Az adatbázis adatainak forrásmegjelölése értsd: miből készült és hogyan:  ...............
 
+Részösszeg:  `4p`
+
+##### Weboldal
+
+
+
+-   `1p`  A weboldalnak van egy értelmezhető struktúrája
+-   `1p`  A weboldal dinamikus tartalommal tölthető fel adatbázison keresztül
+-   `1p`  A weboldal használ legalább 20 sor értelmes css-t
+-   `1p`  A weboldal javascriptje más funkciót is ellát, mint az adatok betöltése
+
+Részösszeg:  `4p`  Eddig:  `8p`
