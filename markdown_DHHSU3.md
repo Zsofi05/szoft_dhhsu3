@@ -22,6 +22,7 @@ A projektem egy asztali- és egy webalkalmazás fejlesztése a JóAutók kitalá
 Részösszeg:  `4p`
 
 ##### Weboldal
+https://www.screentogif.com/
 ![image](https://github.com/user-attachments/assets/b52f97f3-29d3-459b-9d1d-8a1c299f3e4b)
 
 -   `1p`  A weboldalnak van egy értelmezhető struktúrája
