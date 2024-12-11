@@ -37,7 +37,7 @@ Részösszeg:  `4p`  Eddig:  `8p`
 
 ##### API végpontok
 
-![image](https://github.com/user-attachments/assets/2615968d-a074-4713-bd0b-834109ea4566)
+![apik](https://github.com/user-attachments/assets/f7c071dd-28ad-42a9-b37c-3cdfc874cf8c)
 
 -   `3p`  Teljes SQL tábla adatainak szolgáltatása API végponton keresztül 
 -   `1x2p`  SQL tábla egy választható rekordjának szolgáltatása API végponton keresztül 
