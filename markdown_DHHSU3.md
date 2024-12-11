@@ -26,7 +26,7 @@ Részösszeg:  `4p`
 -   `1p`  A weboldalnak van egy értelmezhető struktúrája
 -   `1p`  A weboldal dinamikus tartalommal tölthető fel adatbázison keresztül
 -   `1p`  A weboldal használ legalább 20 sor értelmes css-t
--   `1p`  A weboldal javascriptje más funkciót is ellát, mint az adatok betöltése
+-   `1p`  A weboldal javascriptje más funkciót is ellát, mint az adatok betöltése (új rögzítése, törlés)
 
 Részösszeg:  `4p`  Eddig:  `8p`
 
