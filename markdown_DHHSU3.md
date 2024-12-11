@@ -1,4 +1,4 @@
-# Pontozólap minta
+# Pontozólap 
 
 Név: Zsámbokréty Zsófia
 
@@ -49,6 +49,8 @@ Részösszeg:  `18p`  Eddig:  `26p`
 ### Windows Forms Application
 
 ##### User Interface 
+![image](https://github.com/user-attachments/assets/18d487e9-675a-4394-8bd0-a24469fd28e9)
+![image](https://github.com/user-attachments/assets/fe71264b-5d1e-48ba-b503-d323f828e566)
 
 - `1x2p` Az alkalmazásból a **kilépés csak megerősítő kérdés után** lehetséges. 
 - `3x2p` Olyan alkalmazás **elrendezés, melyben gombok lenyomására UserControl-ok kerülnek elhelyezésre egy Panel vezérlőben**, teljesen kitöltve azt. Minden gombra jár a pont, amennyiben az funckuonlalitással rendelkező UserControl-t tölt be. 
@@ -57,6 +59,7 @@ Részösszeg:  `18p`  Eddig:  `26p`
 Részösszeg:  `10p`
 
 ##### Tábla adatainak megjelenítése `ListBox`-ban. 
+![image](https://github.com/user-attachments/assets/12738ad5-72a0-4efd-9ee6-6778eae35bf7)
 
 - `1x2p` Adatok  megjelenítése 
 - `2x2p` Ha az adatok tetszőleges módszerrel, pl. `TextBox`-on keresztül szűrhetőek.
@@ -64,6 +67,7 @@ Részösszeg:  `10p`
 Részösszeg:  `6p`
 
 ##### Tábla adatainak megjelenítése `DataGridView`-ban 
+![image](https://github.com/user-attachments/assets/14929a8a-818b-4f81-b17d-8a46da1179f3)
 
 - `1x2p` Adatok  megjelenítése
 
@@ -76,3 +80,23 @@ Részösszeg:  `2p`
 
 Részösszeg:  `5p`  
 
+##### Új rekord rögzítése 
+![image](https://github.com/user-attachments/assets/533c5e4e-99d2-4ad4-b5b8-650ffa65d3fb)
+
+- `1x1p` Ha legalább egy nem kulcs mező, pl. _Mennyiség_ is fel van véve
+- `1x2p` Felugró ablakon keresztül történik _Ok_ és _Mégse_ gombbal
+- `1x2p` Ha az űrlap legördülő dobozon vagy listán keresztül beállítható idegen kulcsot is tartalmaz
+
+Részösszeg:  `5p`  
+
+#####  Rekord törlése 
+![image](https://github.com/user-attachments/assets/a90394ab-df04-4bdd-89de-5cdc7bc1105f)
+
+- `1x2p` Sikeres törlés
+- `1x2p` Megerősítéshez kötött törlés
+
+Részösszeg:  `4p`  
+
+Részösszeg:  `32p`  Eddig:  `58p`
+
+## Összessen:  `58p`
