@@ -6,7 +6,7 @@ Neptun: DHHSU3
 
 ## Projekt rövid leírása:
 
-Egy egyszerű asztali alkalmazás és webapplikáció a JóAutók kitalált autószalon nyilvántartásához. 
+A projektem egy asztali- és egy webalkalmazás fejlesztése a JóAutók kitalált autószalon adatainak nyilvántartására. Az Azure SQL alapú adatbáziban találhatóak az adatok, melyeket API végpontokon keresztül, illetve a Scaffold-al ér el a rendszer. Az asztali alkalmazás Windows Forms technológiával készült, adatkötéseket és dinamikus UI elemeket használva. A weboldal dinamikusan tölthető tartalommal, CSS-sel és JavaScript funkciókkal egészül ki. A rendszer célja a könnyen kezelhető, átlátható adatnyilvántartás biztosítása.
 
 ## Hozott anyagok:
 
@@ -16,7 +16,8 @@ Egy egyszerű asztali alkalmazás és webapplikáció a JóAutók kitalált aut�
 
 -   `1x1p`  Az alkalmazásban használt táblánként pont (Cars)
 -   `2p`  Az adatbázis saját Azure SQL szerveren van
--   `1p`  Az adatbázis adatainak forrásmegjelölése értsd: miből készült és hogyan:  ...............
+-   `1p`  Az adatbázis adatainak forrásmegjelölése értsd: 
+                          Az adatbázis adatai fiktívek, a fejlesztés során a ChatGPT által generált tartalmakat használtam. Ezek a mintaadatok kizárólag a projekt demonstrációs céljait szolgálják, és nem valós személyekre, eseményekre vagy szervezetekre utalnak.
 
 Részösszeg:  `4p`
 
@@ -99,4 +100,10 @@ Részösszeg:  `4p`
 
 Részösszeg:  `32p`  Eddig:  `58p`
 
-## Összessen:  `58p`
+### Egyéb, extra
+
+- `1x1p`  `Scaffold-DbContext` használata (ajándék)
+
+Részösszeg:  `1p`  Eddig:  `59p`
+
+## Összessen:  `59p`
