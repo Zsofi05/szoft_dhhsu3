@@ -109,4 +109,4 @@ Részösszeg:  `29p`  Eddig:  `55p`
 
 Részösszeg:  `1p`  Eddig:  `56p`
 
-## Összessen:  `57p`
+## Összessen:  `56p`
