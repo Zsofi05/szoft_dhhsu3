@@ -6,7 +6,7 @@ Neptun: DHHSU3
 
 ## Projekt rövid leírása:
 
-A projektem egy asztali- és egy webalkalmazás fejlesztése a JóAutók kitalált autószalon adatainak nyilvántartására. Az Azure SQL alapú adatbáziban találhatóak az adatok, melyeket API végpontokon keresztül, illetve a Scaffold-al ér el a rendszer. Az asztali alkalmazás Windows Forms technológiával készült, adatkötéseket és dinamikus UI elemeket használva. A weboldal dinamikusan tölthető tartalommal, CSS-sel és JavaScript funkciókkal egészül ki. A rendszer célja a könnyen kezelhető, átlátható adatnyilvántartás biztosítása.
+A projektem egy asztali- és egy webalkalmazás fejlesztése a JóAutók kitalált autószalon adatainak nyilvántartására. Egy Azure SQL alapú adatbázisban találhatóak az adatok, melyeket API végpontokon keresztül, illetve a Scaffold-al ér el a rendszer. Az asztali alkalmazás Windows Forms technológiával készült, adatkötéseket és dinamikus UI elemeket használva. A weboldal dinamikusan tölthető tartalommal, CSS-sel és JavaScript funkciókkal egészül ki. A rendszer célja a könnyen kezelhető, átlátható adatnyilvántartás biztosítása.
 
 ## Hozott anyagok:
 
