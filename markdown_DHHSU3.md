@@ -16,7 +16,7 @@ A projektem egy asztali- és egy webalkalmazás fejlesztése a JóAutók kitalá
 
 -   `1x1p`  Az alkalmazásban használt táblánként pont (Cars)
 -   `2p`  Az adatbázis saját Azure SQL szerveren van
--   `1p`  Az adatbázis adatainak forrásmegjelölése értsd: 
+-   `1p`  Az adatbázis adatainak forrásmegjelölése: 
                           Az adatbázis adatai fiktívek, a fejlesztés során a ChatGPT által generált tartalmakat használtam. Ezek a mintaadatok kizárólag a projekt demonstrációs céljait szolgálják, és nem valós személyekre, eseményekre vagy szervezetekre utalnak.
 
 Részösszeg:  `4p`
@@ -50,17 +50,18 @@ Részösszeg:  `18p`  Eddig:  `26p`
 ### Windows Forms Application
 
 ##### User Interface 
-![image](https://github.com/user-attachments/assets/18d487e9-675a-4394-8bd0-a24469fd28e9)
-![image](https://github.com/user-attachments/assets/fe71264b-5d1e-48ba-b503-d323f828e566)
+![UI](https://github.com/user-attachments/assets/9befda29-889c-4a66-b626-2c5038bc5f7e)
+
 
 - `1x2p` Az alkalmazásból a **kilépés csak megerősítő kérdés után** lehetséges. 
-- `3x2p` Olyan alkalmazás **elrendezés, melyben gombok lenyomására UserControl-ok kerülnek elhelyezésre egy Panel vezérlőben**, teljesen kitöltve azt. Minden gombra jár a pont, amennyiben az funckuonlalitással rendelkező UserControl-t tölt be. 
+- `3x2p` Olyan alkalmazás **elrendezés, melyben gombok lenyomására UserControl-ok kerülnek elhelyezésre egy Panel vezérlőben**, teljesen kitöltve azt. Minden gombra jár a pont, amennyiben az funckionlalitással rendelkező UserControl-t tölt be. 
 - `1x2p` **Anchorok alkalmazása**: az alkalmazás egészében meg van oldva, hogy az ablak átméretezésekor ki legyen használva a rendelkezésre álló terület.
 
 Részösszeg:  `10p`
 
 ##### Tábla adatainak megjelenítése `ListBox`-ban. 
-![image](https://github.com/user-attachments/assets/12738ad5-72a0-4efd-9ee6-6778eae35bf7)
+![listbox](https://github.com/user-attachments/assets/b27f0d46-4dd7-4b61-8639-edbc26012601)
+
 
 - `1x2p` Adatok  megjelenítése 
 - `2x2p` Ha az adatok tetszőleges módszerrel, pl. `TextBox`-on keresztül szűrhetőek.
@@ -68,11 +69,13 @@ Részösszeg:  `10p`
 Részösszeg:  `6p`
 
 ##### Tábla adatainak megjelenítése `DataGridView`-ban 
-![image](https://github.com/user-attachments/assets/14929a8a-818b-4f81-b17d-8a46da1179f3)
+
 
 - `1x2p` Adatok  megjelenítése
 
 Részösszeg:  `2p`  
+
+![DatagV_BindingS](https://github.com/user-attachments/assets/8bdaba7e-ee84-4780-99d1-025e25521e4b)
 
 ##### Adatkötés `BindingSource` -on keresztül
 
@@ -82,28 +85,30 @@ Részösszeg:  `2p`
 Részösszeg:  `5p`  
 
 ##### Új rekord rögzítése 
-![image](https://github.com/user-attachments/assets/533c5e4e-99d2-4ad4-b5b8-650ffa65d3fb)
+
 
 - `1x1p` Ha legalább egy nem kulcs mező, pl. _Mennyiség_ is fel van véve
 - `1x2p` Felugró ablakon keresztül történik _Ok_ és _Mégse_ gombbal
-- `1x2p` Ha az űrlap legördülő dobozon vagy listán keresztül beállítható idegen kulcsot is tartalmaz
 
-Részösszeg:  `5p`  
+Részösszeg:  `3p`  
+
+![torles_uj](https://github.com/user-attachments/assets/48a72c5f-ba69-45ac-bca0-8e90d31dce3a)
 
 #####  Rekord törlése 
-![image](https://github.com/user-attachments/assets/a90394ab-df04-4bdd-89de-5cdc7bc1105f)
 
 - `1x2p` Sikeres törlés
 - `1x2p` Megerősítéshez kötött törlés
 
 Részösszeg:  `4p`  
 
-Részösszeg:  `32p`  Eddig:  `58p`
+Részösszeg:  `30p`  Eddig:  `56p`
 
 ### Egyéb, extra
 
 - `1x1p`  `Scaffold-DbContext` használata (ajándék)
 
-Részösszeg:  `1p`  Eddig:  `59p`
+"Scaffold-DbContext "Data Source=software9.database.windows.net;Initial Catalog=Student2;Persist Security Info=True;User ID=hallgato;Password=Alma1234;Encrypt=True;Trust Server Certificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir CarModels"
 
-## Összessen:  `59p`
+Részösszeg:  `1p`  Eddig:  `57p`
+
+## Összessen:  `57p`
