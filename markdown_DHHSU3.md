@@ -10,7 +10,7 @@ A projektem egy asztali- és egy webalkalmazás fejlesztése a JóAutók kitalá
 
 ## Hozott anyagok:
 
-##### Saját Adatbázis
+##### Saját adatbázis
 ![image](https://github.com/user-attachments/assets/7bb7f95a-560a-4611-9f18-56c63fb77ceb)
 ![image](https://github.com/user-attachments/assets/55f43ef6-cbf5-421d-ab93-1fb87e596e77)
 
