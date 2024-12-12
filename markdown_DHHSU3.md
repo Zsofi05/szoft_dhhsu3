@@ -86,11 +86,9 @@ Részösszeg:  `5p`
 
 ##### Új rekord rögzítése 
 
-
-- `1x1p` Ha legalább egy nem kulcs mező, pl. _Mennyiség_ is fel van véve
 - `1x2p` Felugró ablakon keresztül történik _Ok_ és _Mégse_ gombbal
 
-Részösszeg:  `3p`  
+Részösszeg:  `2p`  
 
 ![torles_uj](https://github.com/user-attachments/assets/48a72c5f-ba69-45ac-bca0-8e90d31dce3a)
 
@@ -101,7 +99,7 @@ Részösszeg:  `3p`
 
 Részösszeg:  `4p`  
 
-Részösszeg:  `30p`  Eddig:  `56p`
+Részösszeg:  `29p`  Eddig:  `55p`
 
 ### Egyéb, extra
 
@@ -109,6 +107,6 @@ Részösszeg:  `30p`  Eddig:  `56p`
 
 "Scaffold-DbContext "Data Source=software9.database.windows.net;Initial Catalog=Student2;Persist Security Info=True;User ID=hallgato;Password=Alma1234;Encrypt=True;Trust Server Certificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir CarModels"
 
-Részösszeg:  `1p`  Eddig:  `57p`
+Részösszeg:  `1p`  Eddig:  `56p`
 
 ## Összessen:  `57p`
